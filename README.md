@@ -1,5 +1,6 @@
 # GEO
 An attempt at a comprehensive Geographic Organization of Earth, or GEO
+
 Interact with the map here:
 
 http://u.osmfr.org/m/1169206/
